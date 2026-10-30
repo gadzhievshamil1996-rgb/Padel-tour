@@ -1,1 +1,1 @@
-{"name":"Padel Tournament","short_name":"Padel","start_url":"./","display":"standalone","background_color":"#0a0d0b","theme_color":"#0a0d0b","description":"Личный менеджер турниров по паделу"}
+{"name":"Padel Tournament Manager","short_name":"Padel","start_url":"./","scope":"./","display":"standalone","orientation":"portrait-primary","background_color":"#080b09","theme_color":"#0a0d0b","description":"Менеджер турниров по паделу: жеребьёвка, счёт и рейтинг","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
